@@ -1,2 +1,2 @@
 #!/bin/bash
-'ls -l' 'ls lna' 'ls -la'
+ls -l ls lna  ls -la
