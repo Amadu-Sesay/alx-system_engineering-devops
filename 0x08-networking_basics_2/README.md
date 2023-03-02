@@ -1,11 +1,21 @@
 # 0x08. Networking basics #1
-### Task 0
 
----
-### Resources : Books or Videos
+
+## Resources : Books or Videos
 Read or Watch:
 * [What is Localhost](https://en.wikipedia.org/wiki/Localhost)
+* [What is 0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+* [What is the hosts file](https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/)
+* [Netcat examples](https://www.thegeekstuff.com/2012/04/nc-command-examples/)
 
+### man or help
+* ifconfig
+* telnet
+* nc
+* cu
+---
+### Task 0
+---
 [0. Change your home IP](https://github.com/Amadu-Sesay/alx-system_engineering-devops/blob/master/0x08-networking_basics_2/0-change_your_home_IP)
 
 Write a Bash script that configures an Ubuntu server with the below requirements.
