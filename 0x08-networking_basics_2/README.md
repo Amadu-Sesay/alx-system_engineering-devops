@@ -24,8 +24,9 @@ Write a Bash script that configures an Ubuntu server with the below requirements
 Requirements:
 - localhost resolves to 127.0.0.2
 - facebook.com resolves to 8.8.8.8.
-- [The checker is running on Docker, so make sure to read this] (http://blog.jonathanargentiero.com/docker-sed-cannot-rename-etcsedl8ysxl-device-or-resource-busy/)
+- [The checker is running on Docker, so make sure to read this](http://blog.jonathanargentiero.com/docker-sed-cannot-rename-etcsedl8ysxl-device-or-resource-busy/)
 
+Task 1
 ---
 [1. Show attached IPs](https://github.com/Amadu-Sesay/alx-system_engineering-devops/blob/master/0x08-networking_basics_2/1-show_attached_IPs)
 ---
