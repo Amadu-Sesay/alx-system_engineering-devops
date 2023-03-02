@@ -1,6 +1,7 @@
 # 0x08. Networking basics #1
 ### Task 0
-[0. Change your home IP]
+[0. Change your home IP](./0-Change_your_home_IP)
+
 Write a Bash script that configures an Ubuntu server with the below requirements.
 
 Requirements:
