@@ -32,3 +32,12 @@ Requirements:
 ---
 
 Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+
+### Task 2
+----
+ [2. Port listening on localhost](https://github.com/Amadu-Sesay/alx-system_engineering-devops/blob/master/0x08-networking_basics_2/100-port_listening_on_localhost)
+----
+
+Write a Bash script that listens on port 98 on localhost.
+
+### Terminal 0
